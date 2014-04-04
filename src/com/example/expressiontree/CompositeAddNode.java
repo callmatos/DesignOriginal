@@ -9,6 +9,9 @@ package com.example.expressiontree;
  */
 public class CompositeAddNode extends CompositeBinaryNode
 {
+	
+	
+	
     /** Ctor */
     public CompositeAddNode(ComponentNode left,
                             ComponentNode right)
